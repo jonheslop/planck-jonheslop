@@ -1,2 +1,2 @@
-# The Default Planck Layout
+# Jon Heslop's Planck Layout
 
